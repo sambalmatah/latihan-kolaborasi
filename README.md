@@ -1,2 +1,2 @@
 # Latihan Kolaborasi
-Squashing dan Merge
+Squashing dan Merger
