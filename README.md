@@ -1,2 +1,2 @@
-# latihan-kolaborasi
+# Latihan Kolaborasi
 Squashing
